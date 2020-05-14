@@ -133,7 +133,7 @@ Software
         Feature { Clipart "クリップアート" }
         Feature
             {
-            Liquify [ "液化"; "ピクセルを伸ばして引っ張ります" ]
+            Liquify [ "ゆがみ"; "ピクセルを伸ばして引っ張ります" ]
             }
         Feature
             {
